@@ -46,3 +46,7 @@ In conclusion, the AI-based recommendation system successfully demonstrates how 
 
 
 <img width="1918" height="1070" alt="Image" src="https://github.com/user-attachments/assets/10a87350-92d6-423c-93bd-47ece6729731" />
+
+
+<img width="1918" height="1079" alt="Image" src="https://github.com/user-attachments/assets/5ff7ce78-3c31-494c-9941-33b5c54a1bad" />
+
