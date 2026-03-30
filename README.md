@@ -43,3 +43,6 @@ Conclusion
 In conclusion, the AI-based recommendation system successfully demonstrates how intelligent suggestions can be generated using Java and machine learning libraries. By using collaborative filtering and user similarity calculations, the system identifies relevant items for users based on their preferences. This project provides a basic understanding of recommendation systems and shows how they can be applied in real-world applications to enhance personalization and improve user experience.
 
 <img width="1918" height="1076" alt="Image" src="https://github.com/user-attachments/assets/3afac40e-7d61-427d-88b7-6864a08cb6cd" />
+
+
+<img width="1918" height="1070" alt="Image" src="https://github.com/user-attachments/assets/10a87350-92d6-423c-93bd-47ece6729731" />
